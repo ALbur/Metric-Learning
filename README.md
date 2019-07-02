@@ -1,5 +1,7 @@
 # Metric-Learning
 Author: Xing EP,Ng AY,Jordan MI, et al.Distance Metric Learning,with Application to Clustering with Side-information [C]//International Conference on Neural Information Processing Systems, 2002.
+
+
 % ---------------------------------------------------------------------------
 % Input 
 % X: data
@@ -15,6 +17,7 @@ Author: Xing EP,Ng AY,Jordan MI, et al.Distance Metric Learning,with Application
 % converged: indicator of convergence
 % iters: iterations passed until convergence 
 % ---------------------------------------------------------------------------
+
 
 X：数据
 S：相似性约束（以成对相似性矩阵的形式）
